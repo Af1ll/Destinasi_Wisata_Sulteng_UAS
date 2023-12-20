@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125332343415",
+    "project_id": "destinasi-wisata-sulteng",
+    "storage_bucket": "destinasi-wisata-sulteng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125332343415:android:85b6cb9fe1434d49015472",
+        "android_client_info": {
+          "package_name": "com.aplikasi.destinasiwisatasulteng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD591edMGqCTYoY8NTs_Gg2to8LXLRGBdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

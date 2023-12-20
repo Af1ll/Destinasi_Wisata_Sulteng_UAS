@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Destinasi Wisata Sulteng</string>
+    <string name="home">Selamat Datang di Aplikasi Destinasi Wisata Sulawesi Tengah</string>
+    <string name="category">category</string>
+    <!--    <string name="dashboard">Dashboard</string>-->
+    <string name="account">Account</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Gong Perdamaian</item>
+        <item>Danau Paisu Pok</item>
+        <item>Danau Poso</item>
+        <item>Danau Tambing</item>
+        <item>Ratu Ampat</item>
+        <item>Matantimali</item>
+        <item>Megalitik Palu</item>
+        <item>Pusat Laut</item>
+        <item>Air Terjun Saluopo</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Gong Perdamaian Nusantara atau Monumen Nosarara Nosabatutu yang dalam Bahasa Kaili (suku asli di Sulawesi Tengah) memiliki arti bersaudara dan bersatu.
+            Simbol perdamaian  berupa Gong Perdamaian atau Monumen Nosarara Nosabatutu ini,
+        </item>
+        <item>
+            Danau Paisupok tak seperti danau pada umumnya karena masih sangat asri dengan air yang jernih. Danau ini menjadi salah satu danau terjernih
+            di Indonesia dengan alam yang masih terjaga keasriannya. Air danau yang begitu jernih terlihat bagai kaca yang memungkinkan wisatawan
+            melihat dasar danaunya.
+        </item>
+        <item>
+            Danau Poso (bahasa Inggris: Poso Lake), merupakan sebuah danau yang terletak di Kabupaten Poso, Provinsi Sulawesi Tengah, Indonesia; dan
+            merupakan danau terdalam ketiga di Indonesia. Danau ini memiliki panjang 32 km dan lebar 16 km.
+        </item>
+        <item>
+            Suasana yang tenang dan sejuk serta pemandangan alam yang masih terjaga, menjadikan Danau Tambing yang terletak di desa Sedoa, Lore Utara
+            di Kabupaten Poso sebagai salah satu lokasi favorit masyarakat Sulawesi Tengah untuk sekedar menghabiskan waktu weekend ataupun mencoba
+            suasana alam usai aktivitas di tengah hiruk pikuk perkotaan.
+        </item>
+        <item>
+            Tempat wisata di Tolitoli lainnya adalah Ratu Ampat, yang tergolong baru. Meskipun masih baru, tapi tidak sedikit para wisatawan lokal yang
+            menghabiskan waktu weekend di tempat ini. Jika Anda ke sini pada pagi hari menjelang ‘buta’, Anda akan disuguhkan indahnya sunrise. Pada sore
+            hari, berjumpa dengan sunset.
+        </item>
+        <item>
+            Bagi anda yang sedang berkunjung ke Kota Palu, sempatkan waktu untuk berkunjung ke bukit indah yang satu ini. Terletak di wilayah Kecamatan
+            Banawa Selatan, Kabupaten Sigi – Sulawesi Tengah, Bukit Matantimali yang berjarak sekitar 30 KM dari Kota Palu menawarkan panorama alam yang
+            mempesona dan patut untuk anda coba datangi.
+        </item>
+        <item>
+            Pulau Sulawesi punya banyak objek sejarah yang penuh misteri. Pulau Celebes ini kental akan budaya megalitik. Manusia zaman megalitikum
+            menggunakan batu-batu besar untuk menunjang kebutuhan hidup mereka. Salah satu di antaranya ialah Situs Pokekea yang menjadi kesatuan situs
+            megalitik di Lembah Lore Lindu Sulawesi Tengah.
+        </item>
+        <item>
+            Berlokasi di Kabupaten Donggala, Pusat Laut ini merupakan sebuah sumur berbentuk melingkar terdiri dari bebatuan yang letak persisnya hanya
+            beberapa meter dari pantai yang airnya sangat jernih. Pada sisi lain terdapat tangga yang digunakan oleh para pengunjung untuk naik turun ke
+            dalam sumur tersebut.
+        </item>
+        <item>
+            Air terjun ini biasa disebut oleh masyarakat setempat dengan sebutan air luncur Saluopa yang berarti sumber mata air jernih dari pegunungan
+            yang meluncur deras dari puncak gunung.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/gongperdamaian</item>
+        <item>@drawable/danaupaisupok</item>
+        <item>@drawable/danauposo</item>
+        <item>@drawable/danautambing</item>
+        <item>@drawable/ratuampat</item>
+        <item>@drawable/matantimali</item>
+        <item>@drawable/megalitikpalu</item>
+        <item>@drawable/pusatlaut</item>
+        <item>@drawable/airterjunsaluopa</item>
+    </integer-array>
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+
+</resources>
